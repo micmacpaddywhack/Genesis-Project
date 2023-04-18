@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 50em) {
+  html {
+    font-size: 2vmax;
+  }
+}
+body {
+
+	background-color: #687B8A ;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	align-content: center;
+
+}
+.main {margin-top: 10%;
+height: 500px;
+width: 100%;
+margin-bottom: 0%;
+}
+
+h1 {
+	font-family: Montserrat, "Helvetica Neue", Helvetica, "sans-serif";
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 1em;
+	width: 50%;
+	float: left;
+	margin-top: 70px;
+	margin-left: 10%;
+	margin-bottom: -20px;
+	color: white;
+}
+
+h3 { 
+	font-family: Montserrat, "Helvetica Neue", Helvetica, "sans-serif";
+	color: white;
+	font-weight: 200px;
+	float: left;
+	margin-left: 10%;
+	margin-right:400px;
+	width: 40%;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+	margin-top: -70px;
+}
+
+
+.bodytext {
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	font-weight: 100px;
+	float: left;
+	margin-left: 10%;
+	margin-right:400px;
+	width: 40%;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+	margin-top: -70px;
+}
+
+
+
+
+
+.findus {
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	font-weight: 600;
+	float: left;
+	margin-left: 10%;
+	width: 50%;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+	margin-top: 80px;
+}
+
+.social {
+	width: 100%;
+	float: left;
+	padding-left: 0px;
+	height: 60px;
+	margin-left: 10%;
+	vertical-align: middle;
+	color: #ffffff; 
+	margin-bottom: 50px;
+}
+
+a.soc {color:#ffffff;}
+
+.signup {
+	font-family: montserrat, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #2B3741;
+	background: #2B3741;
+	font-weight: 600;
+	float: left;
+	width: 100%;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	
+	
+}
+#mc_embed_signup{background:#2B3741; margin-left: 0px; padding-left: 0px; clear:left; font:14px Helvetica,Arial,sans-serif; 
+font-family: montserrat, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+margin-bottom: 0px;
+width: 100%; }
+
+#mc_embed_signup .mc-field-group {font-size: 1em; width}
+
+
+#mc-embedded-subscribe-form {font-size: 1em; margin-left: 10%; padding-top: 0px; width:75%; color: #ffffff;}
+
+
+a.foot {color: #fff;}
+
+footer { 
+	width: 100%;
+	text-align: center;
+	background-color: #687B8A;
+	margin-top: 0px;
+	height: 175px;
+	float: left;
+
+}
+.footer_text { 
+	margin-top: 20px;
+	padding-top: 20px;
+	color: #fff;
+	font-weight: normal;
+	font-family: "Gotham", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 0.5em;
+	align-content: center;
+}
+
+.footer_logo { 
+	padding-top: 20px;
+	
+}
